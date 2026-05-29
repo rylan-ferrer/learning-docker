@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 
+=======
+>>>>>>> refs/remotes/origin/main
 FROM alpine:latest
 
 RUN apk add --no-cache bash figlet
